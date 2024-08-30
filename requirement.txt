@@ -1,0 +1,8 @@
+flask
+flask-limiter
+deep-translator
+langdetect
+requests
+beautifulsoup4 
+redis
+python-dotenv
